@@ -30,7 +30,7 @@ The web app is made with angular Js 5, it is comprised of 3 class components[2 c
 * Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
 ### Using the dist directory ###
-* Clone the project into your machine from https://github.com/jakhax/angular-quotes.git
+* Clone the project into your machine from https:https://Nicholas-muchiri.github.io/Angular-Quotes-Project/
 *  Move into the dist directory and open index.html from your browser, make sure you have internet connection as many scripts and assets will be loaded from the online github repository.
 
 ### Live demo ###
@@ -51,4 +51,3 @@ pull requests are encouraged
 
 ## License ##
 This project is licensed under the MIT Open Source license, (c) [Nicholas-muchiri](https://github.com/Nicholas-muchiri)
-
